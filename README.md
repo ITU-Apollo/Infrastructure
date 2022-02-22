@@ -68,15 +68,4 @@ After the confirmation your infrastructure should be created.
 * [Terraform best practices](https://www.terraform-best-practices.com/)
 
 
-## About d2c.modules.tf
-
-[modules.tf](https://github.com/antonbabenko/modules.tf-lambda) is an open-source project created by [Anton Babenko](https://github.com/antonbabenko):
-1. Questions, bugs and feature-requests - [open an issue](https://github.com/antonbabenko/modules.tf-lambda).
-1. [Become a sponsor to @antonbabenko](https://github.com/sponsors/antonbabenko/).
-1. You are always welcome to share, star, like, tweet, follow!
-
-[![@antonbabenko](https://img.shields.io/twitter/follow/antonbabenko.svg?style=flat&label=Follow%20@antonbabenko%20on%20Twitter)](https://twitter.com/antonbabenko) 
-[![@antonbabenko](https://img.shields.io/github/followers/antonbabenko?style=flat&label=Follow%20@antonbabenko%20on%20Github)](https://github.com/antonbabenko) 
-[![modules.tf-lambda](https://img.shields.io/github/stars/antonbabenko/modules.tf-lambda?style=flat&label=Star%20modules.tf-lambda%20on%20Github)](https://github.com/antonbabenko/modules.tf-lambda)
-
 All content, including [Terraform AWS modules](https://github.com/terraform-aws-modules/) used in these configurations, is released under the MIT or Apache License.

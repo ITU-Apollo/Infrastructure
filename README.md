@@ -1,6 +1,7 @@
 # Infrastructure code for "Apollo"
 
 This repository contains Terraform configuration files which were automatically generated from blueprint created using [Cloudcraft](https://www.cloudcraft.co).
+and diagram can be reached through [here](https://app.cloudcraft.co/view/8734f982-fa4d-4bf2-b56b-bf2b19f726dd?key=70980493-57df-47fe-abfd-a471165b6f96)
 
 [Terragrunt](https://terragrunt.gruntwork.io/) is used to work with Terraform configurations which allows to orchestrate dependent layers, update arguments dynamically and keep configurations [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
 
